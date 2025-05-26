@@ -7,14 +7,18 @@ An interactive Pokemon catalog built with Vue 3 and TypeScript, featuring a mode
 - View detailed Pokemon information in a modal
 - Show Pokemon abilities and stats
 - Responsive design with Tailwind CSS
+- State management with Pinia store
+- Type-safe data handling
 
 ## Technologies Used
 
+- Nuxt 3
 - Vue.js 3
 - TypeScript
 - Tailwind CSS
 - Axios for API calls
 - PokeAPI
+- Pinia for state management
 
 ## Getting Started
 
